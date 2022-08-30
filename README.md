@@ -1,3 +1,3 @@
-# Welcome to Flashii
+# OOPS
 
-and goodbye because I've moved everyone over to [here](https://git.flash.moe/flashii)
+apparently that wasn't the right file to put that in!
